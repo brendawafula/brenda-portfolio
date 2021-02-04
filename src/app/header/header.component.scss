@@ -1,7 +1,24 @@
 header {
     flex: none;
-    background-color: red;
+    background-color: rgb(235, 16, 216);
     color: white;
     padding: 10px;
     font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.links{
+    display:flex;
+    justify-content:space-around;
+}
+
+a {
+    background: white;
+    color:rgb(235, 16, 216);
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 10px;
 }

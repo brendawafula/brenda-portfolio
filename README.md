@@ -22,3 +22,8 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Steps to create your own copy
+1. Open the folder in windows explorer
+2. Click on view and tick show hidden files
+3.  Delete the .git folder
