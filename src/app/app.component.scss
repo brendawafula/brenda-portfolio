@@ -4,6 +4,13 @@
     flex-direction: row;
 }
 
+.section {
+    height: 100vh;
+}
+
 #page-content {
     flex: 1;
+    height: 100vh;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
 }
