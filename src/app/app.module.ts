@@ -11,6 +11,11 @@ import { AboutComponent } from './about/about.component';
 import { SkillsComponent } from './skills/skills.component';
 import { ContactsComponent } from './contacts/contacts.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
+import { ExperienceComponent } from './experience/experience.component';
+import { ProjectsComponent } from './projects/projects.component';
+import { EducationComponent } from './education/education.component';
+import { InterestsComponent } from './interests/interests.component';
+import { AwardsComponent } from './awards/awards.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +26,12 @@ import { SidebarComponent } from './sidebar/sidebar.component';
     AboutComponent,
     SkillsComponent,
     ContactsComponent,
-    SidebarComponent
+    SidebarComponent,
+    ExperienceComponent,
+    ProjectsComponent,
+    EducationComponent,
+    InterestsComponent,
+    AwardsComponent
   ],
   imports: [
     BrowserModule,
