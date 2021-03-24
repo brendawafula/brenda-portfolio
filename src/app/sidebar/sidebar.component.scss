@@ -2,7 +2,7 @@
     background: #070707;
     color: white(35, 247, 7);
     width: 200px;
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid #fd0909;
     
     
 }
@@ -19,7 +19,7 @@
     background-color: rgb(12, 12, 12);
     text-decoration-color: #f10404;
     margin-bottom: 25px;
-    line-height: 3.0;
+    line-height: 2.5;
     
     
     
@@ -44,8 +44,14 @@
   }
 
 h1 {
-    color: blue;
+    color: white;
     text-align: center;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+    font-style: italic;
 }
 
 
